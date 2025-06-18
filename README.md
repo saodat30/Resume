@@ -61,4 +61,4 @@
 
  <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saodat30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saodat30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> </div>
 
-## 📞 Связаться со мной - 📧 Email: [example@email.com](mailto:saodattashpulatova@gmail.com) - 📱 Телефон: +998 (97) 1083012 - 💬 Telegram: [@saodat30](https://t.me/tashpulatova_saodat) - - 🧩 Портфолио: [saodat30.github.io](https://saodat30.github.io)
+## 📞 Связаться со мной - 📧 Email:(saodattashpulatova33@gmail.com) - 📱 Телефон: +998 (97) 1083012 - 💬 Telegram: (https://t.me/tashpulatova_saodat) - - 🧩 Портфолио:(https://saodat30.github.io)
